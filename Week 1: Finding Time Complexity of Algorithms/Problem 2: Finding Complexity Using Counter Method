@@ -1,4 +1,5 @@
 Q. Convert the following algorithm into a program and find its time complexity using the counter method.
+
 void func(int n)
 {
     if(n==1)
@@ -20,8 +21,9 @@ void func(int n)
  }
 
 Note: No need of counter increment for declarations and scanf() and  count variable printf() statements.
+
 Input:
- A positive Integer n
+A positive Integer n
 Output:
 Print the value of the counter variable
 
